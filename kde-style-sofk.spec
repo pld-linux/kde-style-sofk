@@ -8,7 +8,7 @@ Release:	1
 License:	X11
 Group:		Themes
 Source0:	http://www.kde-look.org/content/files/44656-sofk.style-%{version}.tar.bz2
-# Source0-md5:	4e5f5bf08e0b185318e5d2d4df5b1b5b
+# Source0-md5:	8ddbec3ccd9d0423907ed088dbb6a50f
 URL:		http://www.kde-look.org/content/show.php?content=44656
 BuildRequires:	autoconf
 BuildRequires:	automake
