@@ -3,12 +3,12 @@
 Summary:	KDE style - %{_name}
 Summary(pl):	Styl do KDE - %{_name}
 Name:		kde-style-%{_name}
-Version:	0.0.2
+Version:	0.0.3
 Release:	1
 License:	X11
 Group:		Themes
 Source0:	http://www.kde-look.org/content/files/44656-sofk.style-%{version}.tar.bz2
-# Source0-md5:	8ddbec3ccd9d0423907ed088dbb6a50f
+# Source0-md5:	dda8f89e811b8c3274af3552d8cde6f5
 URL:		http://www.kde-look.org/content/show.php?content=44656
 BuildRequires:	autoconf
 BuildRequires:	automake
