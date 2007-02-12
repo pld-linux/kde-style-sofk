@@ -1,7 +1,7 @@
 %define         _name sofk
 
 Summary:	KDE style - %{_name}
-Summary(pl):	Styl do KDE - %{_name}
+Summary(pl.UTF-8):   Styl do KDE - %{_name}
 Name:		kde-style-%{_name}
 Version:	0.0.3
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 %{_name} is a Serenity based, smooth, light KDE theme.
 
-%description -l pl
-%{_name} to g³adki i lekki styl dla KDE bazuj±cy na temacie Serenity.
+%description -l pl.UTF-8
+%{_name} to gÅ‚adki i lekki styl dla KDE bazujÄ…cy na temacie Serenity.
 
 %prep
 %setup -q -n %{_name}.style-%{version}
