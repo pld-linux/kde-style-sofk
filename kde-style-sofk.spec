@@ -1,7 +1,7 @@
 %define         _name sofk
 
 Summary:	KDE style - %{_name}
-Summary(pl.UTF-8):   Styl do KDE - %{_name}
+Summary(pl.UTF-8):	Styl do KDE - %{_name}
 Name:		kde-style-%{_name}
 Version:	0.0.3
 Release:	1
